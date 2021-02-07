@@ -1,6 +1,5 @@
 baseURL = "https://gohugo.io"
-title = "mita"
-author = ""
+title = "mita theme"
 theme = "mita"
 
 [Menus]
